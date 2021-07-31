@@ -16,7 +16,7 @@
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "@mr_handsome99",
+				"username": "mr_handsome99",
 				"url": "https://twitter.com/mr_handsome99?s=08"
 			},
 			{
