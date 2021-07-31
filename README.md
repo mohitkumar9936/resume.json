@@ -6,7 +6,7 @@
 		"email": "2018kucp1144@iiitkota.ac.in",
 		"phone": "9936342476",
 		"website": "---Enter Link of website(if any) ---",
-		"summary": "My name is Mohit Kumar. I am from Sonbhadra, Uttar Pradesh. I have completed my schooling from Robertsganj and now I am pursuing B.Tech from IIIT Kota Jaipur Rajasthan in Computer Science Engineering, currently I am in 3rd year, I have good knowledge of C, C + +, Java,HTML, CSS and python programming languages. I love to play to the Cricket match and Listening music.",
+		"summary": "My name is Mohit Kumar. I am from Sonbhadra, Uttar Pradesh. I have completed my schooling from Robertsganj and now I am pursuing B.Tech from IIIT Kota Jaipur Rajasthan in Computer Science Engineering.",
 		"location": {
 			"address": "COLLECTORATE OFFICE LODHI, ROBERTSGANJ",
 			"postalCode": "231216",
